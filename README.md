@@ -1,6 +1,6 @@
-Hello Microverse
+#**Hello Microverse**
 A simple Microverse project
 
-Built with
-HTML
-CSS
+##**Built with**
+*HTML
+*CSS
