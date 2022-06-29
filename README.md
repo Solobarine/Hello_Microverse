@@ -1,4 +1,4 @@
-# PROJECT NAME
+# HELLO MICROVERSE
 A simple Microverse project
 
 ##  Built with 
